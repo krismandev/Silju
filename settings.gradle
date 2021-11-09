@@ -1,0 +1,2 @@
+rootProject.name = "Silju"
+include ':app'
